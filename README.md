@@ -3,12 +3,13 @@ Cours autodidactiques pour développeurs webs
 
 Ce projet contient 5 documents au format PDF : 
 
-- un tutoriel "P5.js - Premier pas" 
+- un tutoriel "P5.js - Premiers pas" 
 - un support de cours "HTML5 - Premiers pas"
 - un support de cours "CSS3 - Premiers pas"
-- un support de cours "Bootstrap - Premier pas"
-- un support de cours "Javascript et HTML5"
-- un support de cours "AJAX"
+- un support de cours "Bootstrap - Premiers pas"
+- un support de cours "Javascript - Premiers pas" (!! nouveau !!)
+- un support de cours "Javascript et HTML5" (cours de niveau avancé)
+- un support de cours "AJAX" (cours complémentaire au cours précédent)
 
 Le premier document est une introduction au framework P5.js, ainsi qu'au langage 
 de programmation Javascript. Il est particulièrement destiné aux débutants en
@@ -20,12 +21,16 @@ Les développeurs webs débutants auront intérêt à étudier le support numér
 puis le 3, puis le 4. Les développeurs plus aguerris pourront s'affranchir de
 cet ordre, en fonction de leurs priorités. 
 
-Le cinquième document reprend certaines notions étudiées dans les documents 
-précédents, tout en les approfondissant. Les personnes peu à l'aise avec 
-la norme HTML ou avec le langage Javascript auront intérêt à débuter leur
+Le cinquième document est une introduction à Javascript qui se focalise sur
+l'apprentissage de techniques de manipulation du DOM. Ce tout nouveau support
+de cours aborde des techniques pointues et très intéressantes. Il peut constituer
+une bonne introduction au Javascript, avant d'attaquer le sixième document.
+
+Le sixième document ("Javascript et HTML5") reprend la plupart des notions étudiées 
+dans les documents précédents, tout en les approfondissant. Les personnes peu à l'aise avec la norme HTML ou avec le langage Javascript auront intérêt à débuter leur
 étude par les documents qui précèdent, qui sont de difficulté plus progressive.
 
-Le sixième document est un cours complémentaire spécifique à l'étude d'AJAX. Ce
+Le septième document est un cours complémentaire spécifique à l'étude d'AJAX. Ce
 cours nécessite d'avoir une bonne connaissance du langage Javascript et du 
 langage de programmation PHP (côté serveur).
 
