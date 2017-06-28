@@ -1,7 +1,7 @@
 # JSCorner
 Cours autodidactiques pour développeurs webs
 
-Ce projet contient 5 documents au format PDF : 
+Ce projet contient 7 documents au format PDF : 
 
 - un tutoriel "P5.js - Premiers pas" 
 - un support de cours "HTML5 - Premiers pas"
@@ -32,7 +32,9 @@ dans les documents précédents, tout en les approfondissant. Les personnes peu 
 
 Le septième document est un cours complémentaire spécifique à l'étude d'AJAX. Ce
 cours nécessite d'avoir une bonne connaissance du langage Javascript et du 
-langage de programmation PHP (côté serveur).
+langage de programmation PHP (côté serveur). Il est un peu ancien et nécessitera 
+tôt ou tard une réactualisation, mais son contenu demeure valable dans la plupart
+des cas.
 
 D'autres documents viendront compléter ce projet ultérieurement.
 
