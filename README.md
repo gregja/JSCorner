@@ -64,5 +64,6 @@ Quelques recommandations lors de votre apprentissage :
 Bon courage, et bonnes lectures :)
 
 Grégory Jarrige
+
 quelque part près de Paris,
 le 29 juin 2017 
