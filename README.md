@@ -16,7 +16,7 @@ J'ai écrit le support de cours sur P5 en avril 2017, pour les besoins du meetup
 
 https://www.meetup.com/fr-FR/CreativeCodeParis/
 
-Ce support sur P5 est orienté "creative coding", vous y découvrirez des algorithmes "vintage" comme l'épicycloïde, la "rose mystique", etc... Et surtout vous apprendre à dessiner et à animer des formes sur l'écran via les mécanismes proposés par P5.
+Ce support sur P5 est orienté "creative coding", vous y découvrirez des algorithmes "vintage" comme l'épicycloïde, la "rose mystique", etc... Et vous apprendrez à dessiner et à animer ces formes sur l'écran, via les mécanismes proposés par P5.
 
 Les autres cours peuvent être utilisés aussi sur des projets liés au "creative coding", mais ils couvrent des besoins plus larges, liés au développement web.
 
