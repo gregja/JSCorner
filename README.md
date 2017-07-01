@@ -1,15 +1,23 @@
 # JSCorner
 Cours autodidactiques pour développeurs webs
 
+------
+
 Ce projet contient 7 documents au format PDF : 
 
 - un tutoriel "P5.js - Premiers pas" 
-- un support de cours "HTML5 - Premiers pas"
-- un support de cours "CSS3 - Premiers pas"
+- un support de cours "HTML5 - Premiers pas" (mis à jour le 1/07/2017)
+- un support de cours "CSS3 - Premiers pas" (mis à jour le 1/07/2017)
 - un support de cours "Bootstrap - Premiers pas"
-- un support de cours "Javascript - Premiers pas" (!! nouveau !!)
+- un support de cours "Javascript - Premiers pas" (mis à jour le 1/07/2017)
 - un support de cours "Javascript et HTML5" (cours de niveau avancé)
 - un support de cours "AJAX" (cours complémentaire au cours précédent)
+
+Attention : quelques mises à jour importantes mises en place le 1/07/2017, consultez
+les "changelog" qui se trouvent dans chaque document pour connaître la liste des 
+changements.
+
+-------
 
 J'ai écrit les supports 2, 3, 4 et 5 en juin 2017, pour pouvoir proposer à mes élèves étudiants du GRETA des supports de cours plus didactiques et plus adaptés à leurs besoins que mes supports des années précédentes. Les deux derniers supports sont plus anciens, j'y reviendrai à la fin de cette présentation. 
 J'ai écrit le support de cours sur P5 en avril 2017, pour les besoins du meetup Creative Coding Paris, que je co-anime avec quelques amis. 
@@ -42,8 +50,7 @@ Vous allez voir que le DOM, c'est cool, et que vous pouvez le martyriser dans to
 
 - option 1 : si vous n'avez pas encore étudié le cours sur P5.js, c'est peut être le bon moment pour le faire, et vous amuser avec ce framework qui est vraiment sympa.
 
-- option 2 : si vous voulez passer à la vitesse supérieure, vous pouvez vous attaquer au cours "Javascript et HTML5". Lui c'est le plat de résistance (presque 400 pages), vous y retrouverez beaucoup des notions vues dans les précédents  supports, mais avec beaucoup plus de précisions, et aussi plus
-de complexité.
+- option 2 : si vous voulez passer à la vitesse supérieure, vous pouvez vous attaquer au cours "Javascript et HTML5". Lui c'est le plat de résistance (presque 400 pages), vous y retrouverez beaucoup des notions vues dans les précédents  supports, mais avec beaucoup plus de précisions, et aussi plus de complexité.
 
 Enfin, le support sur AJAX vient compléter l'étude du Javascript. AJAX désigne une technique permettant de faire dialoguer un navigateur avec un serveur. La partie serveur peut être développée dans différents langages (PHP, Javascript avec NodeJS, Python, Ruby, etc...). Ce support sur AJAX se focalise sur la communication entre Javascript et PHP. Ce n'est pas le meilleur cours du lot, il a besoin d'être rafraîchi, je m'y attellerai un de ces jours. Il demeure néanmoins relativement juste, mais pour pouvoir l'exploiter pleinement, il faut que vous connaissiez le langage PHP. 
 
@@ -55,9 +62,12 @@ Quelques recommandations lors de votre apprentissage :
 
 - n'essayez pas de tout maîtriser, votre cerveau va sûrement faire de la résistance avec certains notions peu intuitives, c'est normal, il faut l'accepter, et ne pas s'acharner inutilement (laissez refroidir et revenez y plus tard)
 
+- si vous êtes en difficulté avec certaines notions, ne vous acharnez pas, allez dormir. Votre cerveau va faire le ménage pendant la nuit, remodeler et renforcer les connexions synaptiques, vous serez probablement surpris le lendemain, de constater que certaines notions étudiées la veille ne vous posent plus autant de difficulté au réveil.
+
 - testez, testez, testez, ne me faites pas confiance, soyez parano, testez, testez, testez
 
-- c'est seulement par la pratique et la répétition que vous arriverez à acquérir les automatismes qui vous seront utiles dans vos projets futurs. Comme je dis souvent : "la programmation, il n'y a pas de secret, il faut en bouffer". 
+- c'est seulement par la pratique et la répétition que vous arriverez à acquérir les automatismes qui vous seront utiles dans vos projets futurs. Comme je dis souvent : "la programmation, il n'y a pas de secret, il faut en bouffer". Mais c'est bon !!! ;)
+
 
 --------
 
