@@ -6,16 +6,14 @@ Cours autodidactiques pour développeurs webs
 Ce projet contient 7 documents au format PDF : 
 
 - un tutoriel "P5.js - Premiers pas" 
-- un support de cours "HTML5 - Premiers pas" (mis à jour le 1/07/2017)
+- un support de cours "HTML5 - Premiers pas" (mis à jour le 3/07/2017)
 - un support de cours "CSS3 - Premiers pas" (mis à jour le 1/07/2017)
 - un support de cours "Bootstrap - Premiers pas"
 - un support de cours "Javascript - Premiers pas" (mis à jour le 1/07/2017)
 - un support de cours "Javascript et HTML5" (cours de niveau avancé)
 - un support de cours "AJAX" (cours complémentaire au cours précédent)
 
-Attention : quelques mises à jour importantes mises en place le 1/07/2017, consultez
-les "changelog" qui se trouvent dans chaque document pour connaître la liste des 
-changements.
+Attention : quelques mises à jour importantes mises en place le 1/07 et le 3/07/2017, consultez les "changelog" qui se trouvent dans chaque document pour connaître la liste des changements.
 
 -------
 
