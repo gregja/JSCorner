@@ -9,7 +9,7 @@ Ce projet contient 7 documents au format PDF :
 - un support de cours "HTML5 - Premiers pas" (mis à jour le 3/07/2017)
 - un support de cours "CSS3 - Premiers pas" (mis à jour le 1/07/2017)
 - un support de cours "Bootstrap - Premiers pas"
-- un support de cours "Javascript - Premiers pas" (mis à jour le 1/07/2017)
+- un support de cours "Javascript - Premiers pas" (mis à jour le 3/07/2017)
 - un support de cours "Javascript et HTML5" (cours de niveau avancé)
 - un support de cours "AJAX" (cours complémentaire au cours précédent)
 
