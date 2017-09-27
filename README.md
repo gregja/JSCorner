@@ -6,7 +6,7 @@ Cours autodidactiques pour développeurs webs
 Ce projet contient 7 documents au format PDF : 
 
 - un tutoriel "P5.js - Premiers pas" 
-- un support de cours "HTML5 - Premiers pas" (mis à jour le 3/07/2017)
+- un support de cours "HTML5 - Premiers pas" (mis à jour le 28/09/2017)
 - un support de cours "CSS3 - Premiers pas" (mis à jour le 1/07/2017)
 - un support de cours "Bootstrap - Premiers pas"
 - un support de cours "Javascript - Premiers pas" (mis à jour le 11/07/2017)
@@ -40,7 +40,7 @@ Vous allez du coup passer à l'étude du CSS, avec le support "CSS3 - Premiers p
 
 Heureusement il existe des projets comme Bootstrap (un framework CSS développé par Twitter) pour vous secourir. 
 
-Grâce à Bootstrap, vous pouvez obtenir rapidement de beaux formulaires, de beaux menus, de belles listes... bref, de belles pages. Mais Bootstrap offre  beaucoup de possibilités, et ce n'est pas forcément évident de savoir par quel bout le prendre. Aussi le cours "Bootstrap - Premiers pas" est là pour vous  aider à y voir clair.
+Grâce à Bootstrap, vous pouvez obtenir rapidement de beaux formulaires, de beaux menus, de belles listes... bref, de belles pages. Mais Bootstrap offre  beaucoup de possibilités, et ce n'est pas forcément évident de savoir par quel bout le prendre. Aussi le cours "Bootstrap - Premiers pas" est là pour vous aider à y voir clair.
 
 Enfin, vous voudrez certainement donner à vos pages de l'interactivité, du  dynamisme, et ça il n'y a que Javascript qui peut vous l'apporter. Alors le support de cours "Javascript - Premier pas" va vous mettre le pied à l'étrier, et vous allez apprendre comment manipuler le DOM (une drôle de bête qui se cache dans votre navigateur). 
 
@@ -50,9 +50,12 @@ Vous allez voir que le DOM, c'est cool, et que vous pouvez le martyriser dans to
 
 - option 2 : si vous voulez passer à la vitesse supérieure, vous pouvez vous attaquer au cours "Javascript et HTML5". Lui c'est le plat de résistance (presque 400 pages), vous y retrouverez beaucoup des notions vues dans les précédents  supports, mais avec beaucoup plus de précisions, et aussi plus de complexité.
 
-Enfin, le support sur AJAX vient compléter l'étude du Javascript. AJAX désigne une technique permettant de faire dialoguer un navigateur avec un serveur. La partie serveur peut être développée dans différents langages (PHP, Javascript avec NodeJS, Python, Ruby, etc...). Ce support sur AJAX se focalise sur la communication entre Javascript et PHP. Ce n'est pas le meilleur cours du lot, il a besoin d'être rafraîchi, je m'y attellerai un de ces jours. Il demeure néanmoins relativement juste, mais pour pouvoir l'exploiter pleinement, il faut que vous connaissiez le langage PHP. 
+Enfin, le support sur AJAX vient compléter l'étude du Javascript. AJAX désigne une technique permettant de faire dialoguer un navigateur avec un serveur. La partie serveur peut être développée dans différents langages (PHP, Javascript avec NodeJS, Python, Ruby, etc...). Ce support sur AJAX se focalise sur la communication entre Javascript et PHP. Ce n'est pas le meilleur cours du lot, il a besoin d'être rafraîchi, je m'y attellerai un de ces jours. Il demeure néanmoins relativement juste, mais pour pouvoir l'exploiter pleinement, il faut que vous connaissiez le langage PHP (ou un autre langage
+côté serveur). 
 
-Comme je suis en train de réécrire complètement mon cours sur PHP, il va falloir vous armer de patience, mais qui sait, peut être que dans quelques semaines...
+Vous pouvez vous initier au langage PHP via le support
+de cours qui se trouve dans le dépôt suivant :
+https://github.com/gregja/PHPCorner/
 
 --------
 
