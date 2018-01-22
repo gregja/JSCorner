@@ -53,9 +53,15 @@ Vous allez voir que le DOM, c'est cool, et que vous pouvez le martyriser dans to
 Enfin, le support sur AJAX vient compléter l'étude du Javascript. AJAX désigne une technique permettant de faire dialoguer un navigateur avec un serveur. La partie serveur peut être développée dans différents langages (PHP, Javascript avec NodeJS, Python, Ruby, etc...). Ce support sur AJAX se focalise sur la communication entre Javascript et PHP. Ce n'est pas le meilleur cours du lot, il a besoin d'être rafraîchi, je m'y attellerai un de ces jours. Il demeure néanmoins relativement juste, mais pour pouvoir l'exploiter pleinement, il faut que vous connaissiez le langage PHP (ou un autre langage
 côté serveur). 
 
-Vous pouvez vous initier au langage PHP via le support
-de cours qui se trouve dans le dépôt suivant :
+Vous pouvez vous initier au langage PHP via le support de cours qui se trouve dans le dépôt suivant :
 https://github.com/gregja/PHPCorner/
+
+... mais vous avez aussi la possibilité de développer du pur code Javascript côté serveur, grâce à Node.js. Vous pouvez dans ce cas vous initier à Node.js au travers du support de cours ci-dessous (mis en ligne le 22 janvier 2018) :
+https://github.com/gregja/NodeJSCorner
+
+Que vous choisissiez d'investir du temps sur PHP ou sur Node.js, vous allez très vite ressentir le besoin de comprendre un peu mieux comment fonctionne SQL. Vous pouvez dans ce cas vous pencher sur le support de cours que j'ai consacré à MySQL et MariaDB, et qui se trouve dans ce dépôt :
+https://github.com/gregja/SQLCorner/
+
 
 --------
 
@@ -77,4 +83,4 @@ Bon courage, et bonnes lectures :)
 Grégory Jarrige
 
 quelque part près de Paris,
-le 29 juin 2017 
+le 22 janvier 2018 
