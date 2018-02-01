@@ -3,9 +3,8 @@ Cours autodidactiques pour développeurs webs
 
 ------
 
-Ce projet contient 7 documents au format PDF : 
+Ce projet contient 6 documents au format PDF : 
 
-- un tutoriel "P5.js - Premiers pas" 
 - un support de cours "HTML5 - Premiers pas" (mis à jour le 28/09/2017)
 - un support de cours "CSS3 - Premiers pas" (mis à jour le 19/10/2017)
 - un support de cours "Bootstrap - Premiers pas" (mis à jour le 19/10/2017)
@@ -17,22 +16,13 @@ Attention : des mises à jour régulières sont effectuées, consultez les "chan
 
 -------
 
-J'ai écrit les supports 2, 3, 4 et 5 en juin 2017, pour pouvoir proposer à mes élèves étudiants du GRETA des supports de cours plus didactiques et plus adaptés à leurs besoins que mes supports des années précédentes. Les deux derniers supports sont plus anciens, j'y reviendrai à la fin de cette présentation. 
-J'ai écrit le support de cours sur P5 en avril 2017, pour les besoins du meetup Creative Coding Paris, que je co-anime avec quelques amis. 
+J'ai écrit les 4 premiers supports en juin 2017, pour pouvoir proposer à mes élèves étudiants du GRETA des supports de cours plus didactiques et plus adaptés à leurs besoins que mes supports des années précédentes. Les deux derniers supports sont plus anciens, j'y reviendrai à la fin de cette présentation. 
 
-https://www.meetup.com/fr-FR/CreativeCodeParis/
-
-Ce support sur P5 est orienté "creative coding", vous y découvrirez des algorithmes "vintage" comme l'épicycloïde, la "rose mystique", etc... Et vous apprendrez à dessiner et à animer ces formes sur l'écran, via les mécanismes proposés par P5.
-
-Les autres cours peuvent être utilisés aussi sur des projets liés au "creative coding", mais ils couvrent des besoins plus larges, liés au développement web.
-
-J'ai décidé de mettre tous ces supports en accès libre sur ce dépôt Github, pour qu'ils soient accessibles facilement, aussi bien pour mes étudiants, que pour les membres du meetup Creative Coding Paris, ainsi que pour toute personne souhaitant se former sur ces sujets en autodidacte.
+J'ai décidé de mettre tous ces supports en accès libre sur ce dépôt Github, pour qu'ils soient accessibles facilement, aussi bien pour mes étudiants, que pour les membres du meetup CreativeCodeParis, ainsi que pour toute personne souhaitant se former sur ces sujets en autodidacte.
 
 Pour vous aider à savoir comment exploiter ces supports de cours, je vous propose ci-dessous plusieurs pistes de lecture.
 
 ---------
-
-Le document "P5.js - premiers pas" constitue une introduction à la fois à P5.js, et au langage Javascript. Ce support peut s'utiliser indépendamment des autres (si vous n'êtes intéressé que par P5.js), ou en complément (si vous souhaitez acquérir une certaine maîtrise du Javascript).
 
 Si vous souhaitez vous former au développement Web, vous pouvez démarrer avec "HTML5 - Premiers pas". Vous allez vite voir que le HTML, ce n'est pas très compliqué, mais vous allez aussi vous rendre compte que le HTML5 "brut"... c'est carrément moche ! 
 
@@ -46,16 +36,21 @@ Enfin, vous voudrez certainement donner à vos pages de l'interactivité, du  dy
 
 Vous allez voir que le DOM, c'est cool, et que vous pouvez le martyriser dans tous les sens. Et vous allez peut être avoir envie de maîtriser davantage le Javascript. A ce stade, vous avez deux options :
 
-- option 1 : si vous n'avez pas encore étudié le cours sur P5.js, c'est peut être le bon moment pour le faire, et vous amuser avec ce framework qui est vraiment sympa.
+- option 1 : si vous n'avez pas encore étudié le cours sur P5.js, c'est peut être le bon moment pour le faire, et vous amuser avec ce framework qui est vraiment sympa (le support se trouve ici : https://github.com/gregja/p5Corner )
 
 - option 2 : si vous voulez passer à la vitesse supérieure, vous pouvez vous attaquer au cours "Javascript et HTML5". Lui c'est le plat de résistance (presque 400 pages), vous y retrouverez beaucoup des notions vues dans les précédents  supports, mais avec beaucoup plus de précisions, et aussi plus de complexité.
 
-Enfin, le support sur AJAX vient compléter l'étude du Javascript. AJAX désigne une technique permettant de faire dialoguer un navigateur avec un serveur. La partie serveur peut être développée dans différents langages (PHP, Javascript avec NodeJS, Python, Ruby, etc...). Ce support sur AJAX se focalise sur la communication entre Javascript et PHP. Ce n'est pas le meilleur cours du lot, il a besoin d'être rafraîchi, je m'y attellerai un de ces jours. Il demeure néanmoins relativement juste, mais pour pouvoir l'exploiter pleinement, il faut que vous connaissiez le langage PHP (ou un autre langage
-côté serveur). 
+Enfin, le support sur AJAX vient compléter l'étude du Javascript. AJAX désigne une technique permettant de faire dialoguer un navigateur avec un serveur. La partie serveur peut être développée dans différents langages (PHP, Javascript avec NodeJS, Python, Ruby, etc...). Ce support sur AJAX se focalise sur la communication entre Javascript et PHP. Ce n'est pas le meilleur cours du lot, il a besoin d'être rafraîchi, je m'y attellerai un de ces jours. Il demeure néanmoins relativement juste, mais pour pouvoir l'exploiter pleinement, il faut que vous connaissiez un langage serveur :
 
-Vous pouvez vous initier au langage PHP via le support
-de cours qui se trouve dans le dépôt suivant :
+- soit le langage PHP 
 https://github.com/gregja/PHPCorner/
+
+- soit le langage Javascript côté serveur avec Node.js : 
+https://github.com/gregja/NodeJSCorner
+
+En complément de l'un ou l'autre de ces cours (PHP ou Node.js), vous pouvez approfondir l'étude du langage SQL, au travers du support de cours suivant :
+https://github.com/gregja/SQLCorner/
+
 
 --------
 
@@ -77,4 +72,4 @@ Bon courage, et bonnes lectures :)
 Grégory Jarrige
 
 quelque part près de Paris,
-le 29 juin 2017 
+le 1er février 2018
