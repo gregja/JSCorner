@@ -5,7 +5,7 @@ Cours autodidactiques pour développeurs webs
 
 Ce projet contient 7 documents au format PDF :
 
-- un support de cours "HTML5 - Premiers pas" (mis à jour le 28/09/2017)
+- un support de cours "HTML5 - Premiers pas" (mis à jour le 17/11/2019)
 - un support de cours "CSS3 - Premiers pas" (mis à jour le 19/10/2017)
 - un support de cours "Bootstrap - Premiers pas" (mis à jour le 19/10/2017)
 - un support de cours "Javascript - Premiers pas" (mis à jour le 11/07/2017)
