@@ -3,25 +3,29 @@ Cours autodidactiques pour développeurs webs
 
 ------
 
-Ce projet contient 7 documents au format PDF :
+Ce projet contient 9 documents au format PDF :
 
 - un support de cours "HTML5 - Premiers pas" (mis à jour le 17/11/2019)
 - un support de cours "CSS3 - Premiers pas" (mis à jour le 19/10/2017)
 - un support de cours "Bootstrap - Premiers pas" (mis à jour le 19/10/2017)
 - un support de cours "Javascript - Premiers pas" (mis à jour le 11/07/2017)
+
 - un support de cours "Javascript et HTML5" (cours de niveau avancé)
 - un support de cours "AJAX" (cours complémentaire au cours précédent)
-- un dossier "Javascript and Data" (mis en ligne le 20/12/2018) qui couvre
-  un certain nombre de nouveautés de la norme ES6 concernant la manipulation
-  de données en JS 
 
-Attention : des mises à jour régulières sont effectuées, consultez les "changelog" qui se trouvent dans chaque document pour connaître la liste des changements.
+- un dossier "Javascript and Data" (mis en ligne le 20/12/2018) qui couvre un certain nombre de nouveautés de la norme ES6 concernant la manipulation de données en JS 
+  
+- un dossier "Javascript et Workers" (mis en ligne le 18/03/2021)
+- un dossier "Javascript et Promises" (mis en ligne le 18/03/2021)  
+
 
 -------
 
-J'ai écrit les 4 premiers supports en juin 2017, pour pouvoir proposer à mes élèves étudiants du GRETA des supports de cours plus didactiques et plus adaptés à leurs besoins que mes supports des années précédentes. Les deux supports suivants sont plus anciens, j'y reviendrai à la fin de cette présentation.
+J'ai écrit les 4 premiers supports en juin 2017, pour pouvoir proposer à mes élèves étudiants du GRETA des supports de cours plus didactiques et plus adaptés à leurs besoins que mes supports des années précédentes. 
 
 J'ai décidé de mettre tous ces supports en accès libre sur ce dépôt Github, pour qu'ils soient accessibles facilement, aussi bien pour mes étudiants, que pour les membres du meetup CreativeCodeParis, ainsi que pour toute personne souhaitant se former sur ces sujets en autodidacte.
+
+De ces 4 premiers documents, celui sur Bootstrap est celui qui prend le plus de retard, sachant qu'il traite de Bootstrap 3 et que le framework est passé récemment en version 5. Mais il me semble satisfaisant pour une initiation, d'autant que beaucoup de sites internet fonctionnent encore aujourd'hui avec Bootstrap 3.
 
 Pour vous aider à savoir comment exploiter ces supports de cours, je vous propose ci-dessous plusieurs pistes de lecture.
 
@@ -75,4 +79,4 @@ Bon courage, et bonnes lectures :)
 Grégory Jarrige
 
 quelque part près de Paris,
-le 1er février 2018
+le 18 mars 2021
