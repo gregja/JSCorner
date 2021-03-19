@@ -58,6 +58,17 @@ https://github.com/gregja/NodeJSCorner
 En complément de l'un ou l'autre de ces cours (PHP ou Node.js), vous pouvez approfondir l'étude du langage SQL, au travers du support de cours suivant :
 https://github.com/gregja/SQLCorner/
 
+--------
+
+Pour les développeurs souhaitant découvrir des techniques plus avancées, souvent liées à des évolutions récentes du langage Javascript, j'ai ajouté dernièrement trois nouveaux documents :
+
+- JS et la Data : traite de manipulation de données en général, et de programmation fonctionnelle en particulier (techniques spécifiques à ES6 notamment)
+
+- JS et les Workers : explique comment utiliser les Web Workers (côté navigateur) et les Worker Threads (coté Node.js)
+
+- JS et les Promises : décrit le fonctionnement des promesses 
+
+Ce sont des documents de travail, que j'ai constitués à partir de ma propre expérience de ces sujets. J'espère qu'ils pourront être utiles à d'autres personnes.
 
 --------
 
